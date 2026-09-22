@@ -67,6 +67,8 @@ void afficher_parc(const Equipement *parc, int nb_equipements) {
     // TODO: Parcourir le tableau et afficher les informations
 }
 
+fin du TP !
+
 void changer_etat(Equipement *eq) {
     // TODO: Modifier la valeur de est_actif en passant par le pointeur
 }
